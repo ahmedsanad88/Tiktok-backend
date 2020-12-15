@@ -29,18 +29,10 @@ npm install
 
 ```javascript
 "dependencies": {
-
-    "@material-ui/core": "^4.11.1",
-    "@material-ui/icons": "^4.9.1",
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.2.2",
-    "@testing-library/user-event": "^12.2.2",
-    "axios": "^0.21.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1",
-    "react-ticker": "^1.2.2",
-}
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.18"
+  }
 ```
 
 ## Contributing
